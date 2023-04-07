@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HessayOghene
-- 👀 I’m interested in being a devops engineer
-- 🌱 I’m currently learning git and github
+- 👀 I’m a devops engineer
+- 🌱 I’m currently working wiith git and github
 - 💞️ I’m looking to collaborate on github
 - 📫 You can search me on github using the name hessayoghene
 
